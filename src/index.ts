@@ -1,5 +1,3 @@
-function sayHello() {
-    console.log("Hello, world!");
-}
+import { Gfx } from "./Gfx";
 
-export { sayHello };
+export { Gfx };

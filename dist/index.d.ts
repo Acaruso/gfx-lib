@@ -1,2 +1,2 @@
-declare function sayHello(): void;
-export { sayHello };
+import { Gfx } from "./Gfx";
+export { Gfx };
